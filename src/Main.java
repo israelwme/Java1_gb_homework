@@ -34,7 +34,7 @@ public class Main {
         System.out.println("8. Метод, который определяет является ли год високосным, и выводит сообщение в консоль. Каждый 4-й год является високосным, кроме каждого 100-го, при этом каждый 400-й – високосный.");
         System.out.println(method_8());
     }
-
+    
     public static int method_3(){
         System.out.println("3. Метод вычисляющий выражение a * (b + (c / d)) и возвращающий результат");
         Scanner scanner =new Scanner(System.in);
